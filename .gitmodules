@@ -6,3 +6,11 @@
 	path = assets
 	url = git@github.com:skleinjung/jounce-assets.git
 	branch = master
+[submodule "modules/luna"]
+	path = modules/luna
+	url = git@github.com:skleinjung/luna.git
+	branch = master
+[submodule "modules/saltar"]
+	path = modules/saltar
+	url = git@github.com:skleinjung/saltar.git
+	branch = master

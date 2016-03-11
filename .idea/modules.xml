@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/luna/luna-android/luna-android.iml" filepath="$PROJECT_DIR$/modules/luna/luna-android/luna-android.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/luna/luna-api/luna-api.iml" filepath="$PROJECT_DIR$/modules/luna/luna-api/luna-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/luna/luna-core/luna-core.iml" filepath="$PROJECT_DIR$/modules/luna/luna-core/luna-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/luna/luna-desktop/luna-desktop.iml" filepath="$PROJECT_DIR$/modules/luna/luna-desktop/luna-desktop.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/luna/luna-parent.iml" filepath="$PROJECT_DIR$/modules/luna/luna-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/saltar/saltar-app/saltar-app.iml" filepath="$PROJECT_DIR$/modules/saltar/saltar-app/saltar-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/saltar/saltar-parent.iml" filepath="$PROJECT_DIR$/modules/saltar/saltar-parent.iml" />

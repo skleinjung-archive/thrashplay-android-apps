@@ -26,6 +26,7 @@
         <module name="luna-android" />
         <module name="luna-api" />
         <module name="luna-core" />
+        <module name="saltar-app" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -37,6 +38,8 @@
       <module name="luna-api" target="1.7" />
       <module name="luna-core" target="1.7" />
       <module name="luna-parent" target="1.7" />
+      <module name="saltar-app" target="1.7" />
+      <module name="saltar-parent" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

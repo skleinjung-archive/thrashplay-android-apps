@@ -5,12 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.thrashplay.jounce</groupId>
-    <artifactId>jounce-with-deps-aggregator</artifactId>
+    <artifactId>all-projects-aggregator</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
-        <module>modules/jounce</module>
         <module>modules/luna</module>
+        <module>modules/jounce</module>
+        <module>modules/saltar</module>
     </modules>
 </project>

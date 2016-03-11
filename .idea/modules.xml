@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/modules/jounce/jounce-aggregator.iml" filepath="$PROJECT_DIR$/modules/jounce/jounce-aggregator.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/jounce/jounce-app/jounce-app.iml" filepath="$PROJECT_DIR$/modules/jounce/jounce-app/jounce-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/jounce/jounce-parent.iml" filepath="$PROJECT_DIR$/modules/jounce/jounce-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/jounce-with-deps-aggregator.iml" filepath="$PROJECT_DIR$/jounce-with-deps-aggregator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/luna/luna-aggregator.iml" filepath="$PROJECT_DIR$/modules/luna/luna-aggregator.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/luna/luna-android/luna-android.iml" filepath="$PROJECT_DIR$/modules/luna/luna-android/luna-android.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/luna/luna-api/luna-api.iml" filepath="$PROJECT_DIR$/modules/luna/luna-api/luna-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/luna/luna-core/luna-core.iml" filepath="$PROJECT_DIR$/modules/luna/luna-core/luna-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/luna/luna-parent.iml" filepath="$PROJECT_DIR$/modules/luna/luna-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/saltar/saltar-app/saltar-app.iml" filepath="$PROJECT_DIR$/modules/saltar/saltar-app/saltar-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/saltar/saltar-parent.iml" filepath="$PROJECT_DIR$/modules/saltar/saltar-parent.iml" />
     </modules>
   </component>
 </project>

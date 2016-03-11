@@ -23,16 +23,19 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="jounce-app" />
+        <module name="jounce-desktop" />
         <module name="luna-android" />
         <module name="luna-api" />
         <module name="luna-core" />
         <module name="luna-desktop" />
         <module name="saltar-app" />
+        <module name="saltar-desktop" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="jounce-aggregator" target="1.7" />
       <module name="jounce-app" target="1.7" />
+      <module name="jounce-desktop" target="1.7" />
       <module name="jounce-parent" target="1.7" />
       <module name="luna-aggregator" target="1.7" />
       <module name="luna-android" target="1.7" />
@@ -41,6 +44,7 @@
       <module name="luna-desktop" target="1.7" />
       <module name="luna-parent" target="1.7" />
       <module name="saltar-app" target="1.7" />
+      <module name="saltar-desktop" target="1.7" />
       <module name="saltar-parent" target="1.7" />
     </bytecodeTargetLevel>
   </component>

@@ -4,7 +4,11 @@
     <file url="file://$PROJECT_DIR$/modules/jounce" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/modules/jounce/jounce-app" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/modules/jounce/jounce-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/luna" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/modules/luna/luna-android" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/luna/luna-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/luna/luna-api/pom.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/luna/luna-core" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/modules/luna/luna-parent" charset="UTF-8" />
   </component>
 </project>

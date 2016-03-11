@@ -24,13 +24,18 @@
         <processorPath useClasspath="true" />
         <module name="jounce-app" />
         <module name="luna-android" />
+        <module name="luna-api" />
+        <module name="luna-core" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="jounce-aggregator" target="1.7" />
       <module name="jounce-app" target="1.7" />
       <module name="jounce-parent" target="1.7" />
+      <module name="luna-aggregator" target="1.7" />
       <module name="luna-android" target="1.7" />
+      <module name="luna-api" target="1.7" />
+      <module name="luna-core" target="1.7" />
       <module name="luna-parent" target="1.7" />
     </bytecodeTargetLevel>
   </component>

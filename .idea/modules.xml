@@ -7,7 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/jounce-with-deps-aggregator.iml" filepath="$PROJECT_DIR$/jounce-with-deps-aggregator.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/luna/luna-aggregator.iml" filepath="$PROJECT_DIR$/modules/luna/luna-aggregator.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/luna/luna-android/luna-android.iml" filepath="$PROJECT_DIR$/modules/luna/luna-android/luna-android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/luna/luna-parent/luna-parent.iml" filepath="$PROJECT_DIR$/modules/luna/luna-parent/luna-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/luna/luna-api/luna-api.iml" filepath="$PROJECT_DIR$/modules/luna/luna-api/luna-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/luna/luna-core/luna-core.iml" filepath="$PROJECT_DIR$/modules/luna/luna-core/luna-core.iml" />
     </modules>
   </component>
 </project>

@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="jounce-app" />
+        <module name="jounce-core" />
         <module name="jounce-desktop" />
         <module name="luna-android" />
         <module name="luna-api" />
@@ -36,6 +37,7 @@
     <bytecodeTargetLevel>
       <module name="jounce-aggregator" target="1.7" />
       <module name="jounce-app" target="1.7" />
+      <module name="jounce-core" target="1.7" />
       <module name="jounce-desktop" target="1.7" />
       <module name="jounce-parent" target="1.7" />
       <module name="luna-aggregator" target="1.7" />

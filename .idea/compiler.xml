@@ -29,6 +29,7 @@
         <module name="luna-core" />
         <module name="luna-desktop" />
         <module name="saltar-app" />
+        <module name="saltar-core" />
         <module name="saltar-desktop" />
       </profile>
     </annotationProcessing>
@@ -44,6 +45,7 @@
       <module name="luna-desktop" target="1.7" />
       <module name="luna-parent" target="1.7" />
       <module name="saltar-app" target="1.7" />
+      <module name="saltar-core" target="1.7" />
       <module name="saltar-desktop" target="1.7" />
       <module name="saltar-parent" target="1.7" />
     </bytecodeTargetLevel>

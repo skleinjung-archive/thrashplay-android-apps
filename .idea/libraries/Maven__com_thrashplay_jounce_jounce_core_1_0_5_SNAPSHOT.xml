@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: com.thrashplay.jounce:jounce-core:1.0.5-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/thrashplay/jounce/jounce-core/1.0.5-SNAPSHOT/jounce-core-1.0.5-20160312.085447-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/modules/jounce/jounce-core/jounce-core-1.0.5-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/thrashplay/jounce/jounce-core/1.0.5-SNAPSHOT/jounce-core-1.0.5-20160312.085447-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/modules/jounce/jounce-core/jounce-core-1.0.5-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/thrashplay/jounce/jounce-core/1.0.5-SNAPSHOT/jounce-core-1.0.5-20160312.085447-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -6,6 +6,7 @@
         <option name="ENABLED" value="true" />
       </pattern>
     </extension>
+    <extension name="eu.nyerel.panda.ijplugin.runner.PandaRunConfigurationExtension" />
     <option name="MAIN_CLASS_NAME" value="com.thrashplay.jounce.desktop.Main" />
     <option name="VM_PARAMETERS" value="" />
     <option name="PROGRAM_PARAMETERS" value="" />

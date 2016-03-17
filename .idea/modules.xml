@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/modules/saltar/blit-test-app/blit-test-app.iml" filepath="$PROJECT_DIR$/modules/saltar/blit-test-app/blit-test-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/jounce/jounce-app/jounce-app.iml" filepath="$PROJECT_DIR$/modules/jounce/jounce-app/jounce-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/jounce/jounce-core/jounce-core.iml" filepath="$PROJECT_DIR$/modules/jounce/jounce-core/jounce-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/jounce/jounce-desktop/jounce-desktop.iml" filepath="$PROJECT_DIR$/modules/jounce/jounce-desktop/jounce-desktop.iml" />

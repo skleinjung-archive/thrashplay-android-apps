@@ -13,6 +13,7 @@
     <file url="file://$PROJECT_DIR$/modules/luna/luna-desktop" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/modules/saltar" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/modules/saltar/.gitignore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/saltar/blit-test-app" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/modules/saltar/pom.xml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/modules/saltar/saltar-app" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/modules/saltar/saltar-app/pom.xml" charset="UTF-8" />

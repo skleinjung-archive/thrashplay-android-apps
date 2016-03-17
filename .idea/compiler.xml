@@ -22,6 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="blit-test-app" />
         <module name="jounce-app" />
         <module name="jounce-core" />
         <module name="jounce-desktop" />
@@ -35,6 +36,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="blit-test-app" target="1.7" />
       <module name="jounce-aggregator" target="1.7" />
       <module name="jounce-app" target="1.7" />
       <module name="jounce-core" target="1.7" />

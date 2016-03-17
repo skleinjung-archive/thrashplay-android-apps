@@ -22,7 +22,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="blit-test-app" />
         <module name="jounce-app" />
         <module name="jounce-core" />
         <module name="jounce-desktop" />

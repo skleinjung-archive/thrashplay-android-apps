@@ -7,6 +7,7 @@
     <file type="android" url="file://$PROJECT_DIR$/modules/jounce/jounce-app" />
     <file type="android" url="file://$PROJECT_DIR$/modules/saltar/blit-test-app" />
     <file type="android" url="file://$PROJECT_DIR$/modules/saltar/saltar-app" />
+    <file type="android" url="file://$PROJECT_DIR$/modules/saltar/saltar-level-editor-defunct" />
   </component>
   <component name="IdProvider" IDEtalkID="12EF3F17FEBE47F7E4F2C4FF11681393" />
   <component name="MavenProjectsManager">

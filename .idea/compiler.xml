@@ -22,6 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="blit-level-editor" />
         <module name="jounce-app" />
         <module name="jounce-core" />
         <module name="jounce-desktop" />
@@ -32,9 +33,11 @@
         <module name="saltar-app" />
         <module name="saltar-core" />
         <module name="saltar-desktop" />
+        <module name="saltar-editor" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="blit-level-editor" target="1.7" />
       <module name="blit-test-app" target="1.7" />
       <module name="jounce-aggregator" target="1.7" />
       <module name="jounce-app" target="1.7" />
@@ -50,6 +53,8 @@
       <module name="saltar-app" target="1.7" />
       <module name="saltar-core" target="1.7" />
       <module name="saltar-desktop" target="1.7" />
+      <module name="saltar-editor" target="1.7" />
+      <module name="saltar-level-editor" target="1.7" />
       <module name="saltar-parent" target="1.7" />
     </bytecodeTargetLevel>
   </component>
